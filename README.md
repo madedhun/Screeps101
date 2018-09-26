@@ -1,2 +1,2 @@
 # Screeps101
-My second attemt at Screeps the game
+My second attemt at  the game Screeps.
