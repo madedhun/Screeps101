@@ -1,4 +1,4 @@
-require('class');
+ire('class');
 module.exports = {
 
 	run: function()
